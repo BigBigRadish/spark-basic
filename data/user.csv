@@ -1,0 +1,6 @@
+﻿id,user_id,nickname,birthday,age,color,weight
+1,1,King Li,2014-11-22 12:30:31,5,brown,30.0
+2,3,hong Wang,2016-11-22 10:05:10,10,yellow,40.5
+3,1,Che Zhang,2016-11-22 10:05:10,15,blue,50.5
+3,2,Maple Liu,2018-11-22 10:05:10,17,white,62.5
+4,2,,2019-01-01 10:05:10,13,45.5
